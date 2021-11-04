@@ -1,2 +1,2 @@
-# Predicting-Indian-Liver-Patients-with-Machine-Learning-Algorithm
+# Predicting-Liver-Patients-with-Machine-Learning-Algorithm
 Predicting Indian Liver Patients with Machine Learning Algorithm
